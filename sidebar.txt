@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mcj:home|Door43 (mcj)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mcj|d43-mcj repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mcj/archive/master.zip|d43-mcj.zip]]
+
+**Recent Changes**
+{{changes>ns = mcj}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mcj|Ethnologue data]]
+
